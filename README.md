@@ -65,11 +65,6 @@ College-Lab-Tracker/
 ├── docker/             # Container images & orchestration
 ├── scripts/            # Puppeteer monitoring scripts
 └── docs/               # Documentation & setup guides
-##  Demo
-![Student Dashboard](docs/screenshots/student-dashboard.jpeg)
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
-![Role Based Access](docs/screenshots/role-based-control.png)
-![General Screenshots](docs/screenshots/screenshots.png)
 
 🔐 Security & Integrity Measures
 RBAC – Role-Based Access Control
