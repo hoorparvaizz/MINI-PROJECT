@@ -66,13 +66,10 @@ College-Lab-Tracker/
 ├── scripts/            # Puppeteer monitoring scripts
 └── docs/               # Documentation & setup guides
 ## 📸 Demo
-<div align="center">
-  <img src="docs/screenshots/student-dashboard.jpeg" alt="Student Dashboard" width="400" />
-  <img src="docs/screenshots/admin-dashboard.png" alt="Admin Dashboard" width="400" />
-  <img src="docs/screenshots/role-based-control.png" alt="Role Based Access" width="400" />
-  <img src="docs/screenshots/screenshots.png" alt="General Screenshots" width="400" />
-</div>
-
+![Student Dashboard](docs/screenshots/student-dashboard.jpeg)
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+![Role Based Access](docs/screenshots/role-based-control.png)
+![General Screenshots](docs/screenshots/screenshots.png)
 
 🔐 Security & Integrity Measures
 RBAC – Role-Based Access Control
